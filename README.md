@@ -2,8 +2,8 @@
 
 ### 요구 사항서
 
-![image](https://github.com/yeoseojeong/Autonomous-vehicle-system/assets/121150215/79af9b52-31ed-46d3-b1e1-e04de2b62ddc)
-![image](https://github.com/yeoseojeong/Autonomous-vehicle-system/assets/121150215/8f2d19b2-8c02-410d-8f9d-554c8b4279ca)
+![image](https://github.com/yeoseojeong/Autonomous-vehicle-system/assets/121150215/d27d7008-b545-44ef-a6dd-b50c29674f5f)
+![image](https://github.com/yeoseojeong/Autonomous-vehicle-system/assets/121150215/482e7a80-c125-44f6-abd6-2fdccddbf644)
 
 ---
 
